@@ -11,3 +11,4 @@ if (age < 18) {
 } else {
 	print "low risk";
 }
+
